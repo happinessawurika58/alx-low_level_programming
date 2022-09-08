@@ -1,13 +1,13 @@
-#include <stdio.h>                                                                                                                                                           
-#include <string.h>                                                                                                                                                          
-/**                                                                                                                                                                          
- *  * main - Entry point                                                                                                                                                        
- *   *                                                                                                                                                                           
- *    * Return: Always 0 (Success)                                                                                                                                                
- *     */                                                                                                                                                                          
-int main(void)                                                                                                                                                               
-{                                                                                                                                                                            
-	char str1[] = "\"Programming is like building a multilingual puzzle";                                                                                                        
-	puts(str1);                                                                                                                                                                  
-	return (0);                                                                                                                                                                  
+#include <stdio.h>
+/**
+* main - Entry point
+* Description: prints "\"Programming is like building a multilingual puzzle"
+* Return: 0
+*/
+int main(void)
+{
+nt main(void)
+{
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
