@@ -29,6 +29,7 @@ _putchar(',');
 _putchar(32);
 _putchar(32);
 _putchar(((z / 10) % 10) + '0');
+_putchar((z % 10) + '0');
 }
 else
 {
@@ -40,6 +41,7 @@ _putchar(32);
 _putchar(32);
 }
 _putchar(z + '0');
+}
 }
 _putchar('\n');
 }
