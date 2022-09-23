@@ -36,12 +36,12 @@ i++;
 }
 
 /**
-*  * printASCII - print ascii values for string b,
-*   * formatted to replace nonprintable chars with '.'
-*    * @b: string to print
-*     * @start: starting position
-*      * @end: ending position
-*       */
+* printASCII - print ascii values for string b,
+* formatted to replace nonprintable chars with '.'
+* @b: string to print
+* @start: starting position
+* @end: ending position
+*/
 
 void printASCII(char *b, int start, int end)
 {
