@@ -1,10 +1,10 @@
-fndef MAIN_H
+#ifndef MAIN_H
 #define MAIN_H
 
 /**
-* File: holberton.h
+* File: main.h
 * Desc: Header file containing prototypes for all functions
-*       used in the 0x0A-malloc_free directory.
+*       used in the 0x0B-malloc_free directory.
 */
 
 char *create_array(unsigned int size, char c);
