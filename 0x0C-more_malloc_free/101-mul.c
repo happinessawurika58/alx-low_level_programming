@@ -71,7 +71,7 @@ return (dest);
 }
 
 /**
-*check_for_digits - checks the arguments to ensure they are digits
+* check_for_digits - checks the arguments to ensure they are digits
 * @av: pointer to arguments
 *
 * Return: 0 if digits, 1 if not
